@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**Adi-Dzocaj/Adi-Dzocaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sweden, Currently looking for a fall internship!
 
-Here are some ideas to get you started:
+## Skills and Experience
++ HTML
++ CSS
++ Javascript
++ Bootstrap
++ Photoshop
++ Illustrator
++ Photoshop
++ XD
++ Git
++ Figma
++ MySQL
++ MongoDB
++ NodeJS
++ Express
++ Socket.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## In progress
++ React
++ Scrum
++ Tailwind
++ Typescript
+
+## Contact Details
+Feel free to contact me through either e-mail: adidzocaj@gmail.com, or via LinkedIn: www.linkedin.com/in/adi-dzocaj-0234461b3
