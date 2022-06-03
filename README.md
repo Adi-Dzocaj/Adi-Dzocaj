@@ -7,7 +7,6 @@ I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sw
 + CSS
 + Javascript
 + Bootstrap
-+ Photoshop
 + Illustrator
 + Photoshop
 + XD
