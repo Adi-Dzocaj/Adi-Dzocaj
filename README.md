@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sweden, Currently looking for a fall internship!
+I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sweden.
 
 ## Skills and Experience
 + HTML
