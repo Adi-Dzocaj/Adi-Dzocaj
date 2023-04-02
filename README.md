@@ -9,7 +9,7 @@ I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sw
 + Bootstrap
 + Illustrator
 + Photoshop
-+ XD
++ Adobe XD
 + Git
 + Figma
 + MySQL
@@ -17,11 +17,14 @@ I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sw
 + NodeJS
 + Express
 + Socket.io
++ C#
++ .NET
++ Entity Framework
++ SQL Server
++ Vue
++ React
 
 ## In progress
-+ React
-+ Scrum
-+ Tailwind
 + Typescript
 
 ## Contact Details
