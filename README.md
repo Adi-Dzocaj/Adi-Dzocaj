@@ -26,9 +26,9 @@ I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sw
 + Typescript
 
 ## In progress
-Golang
-Rust
-C
++ Golang
++ Rust
++ C
 
 ## Contact Details
 Feel free to contact me through either e-mail: adidzocaj@gmail.com, or via LinkedIn: www.linkedin.com/in/adi-dzocaj
