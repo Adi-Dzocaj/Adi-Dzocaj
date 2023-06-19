@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Adi, an aspiring front end developer studying at Medieinstitutet, Malmö, Sweden.
+I'm Adi, a passionate software developer with a degree in Front End Development from Medieinstitutet in Malmö, Sweden.
 
 ## Skills and Experience
 + HTML
